@@ -1,5 +1,6 @@
 #
 # Серверное приложение для соединений
+# С изменениями по домашней работе
 #
 import asyncio
 from asyncio import transports
